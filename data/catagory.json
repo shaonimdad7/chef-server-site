@@ -2,7 +2,7 @@
     {
         "id": "1",
         "name": "Elizabeth Gillies",
-        "img": "../images/elizabeth.jpg",
+        "img": "https://i.ibb.co/hshxtz5/elizabeth.jpg",
         "years": "More than five years and 8 months",
         "recipes": "She is good at making more than 8 iteams",
         "like": "4123"
@@ -10,7 +10,7 @@
     {
         "id": "2",
         "name": "Grant Show",
-        "img": "../images/show.jpg",
+        "img": "https://i.ibb.co/KVKvZ7N/snow.jpg",
         "years": "six years completed and running",
         "recipes": "he can make you happy with his 10 wonderful iteams",
         "like": "3974"
@@ -18,7 +18,7 @@
     {
         "id": "3",
         "name": "Daniella Alonso",
-        "img": "../images/alonso.jpg",
+        "img": "https://i.ibb.co/cTdTJz1/alonso.jpg",
         "years": "she is a chef More than five years",
         "recipes": "You can enjoy her more than 6 items",
         "like": "2241"
@@ -26,7 +26,7 @@
     {
         "id": "4",
         "name": "Adam Huber",
-        "img": "../images/adam.jpg",
+        "img": "https://i.ibb.co/6PQkWmW/adam.jpg",
         "years": "He is enjoing this More than five years",
         "recipes": "Hhe is good at making more than 8 iteams",
         "like": "6524"
@@ -34,7 +34,7 @@
     {
         "id": "5",
         "name": "Maddison Brown",
-        "img": "../images/brown.jpg",
+        "img": "https://i.ibb.co/23cgcwM/brown.jpg",
         "years": "She is here more than 4 years",
         "recipes": "She can make her awesome 6 iteams",
         "like": "3514"
@@ -42,15 +42,15 @@
     {
         "id": "6",
         "name": "James Mackay",
-        "img": "../images/james.jpg",
+        "img": "https://i.ibb.co/BtYt4sh/james.jpg",
         "years": "More than eight years of his experience",
         "recipes": "He is the best at making more than 5 iteams",
         "like": "2265"
     },
     {
         "id": "7",
-        "name": "Elena Tovar",
-        "img": "../images/linda.jpg",
+        "name": "Eliza Bennett",
+        "img": "https://i.ibb.co/T1c2J5y/eliza.jpg",
         "years": "More than seven years to go",
         "recipes": "She is good at making more than 7 iteams",
         "like": "2645"
@@ -58,7 +58,7 @@
     {
         "id": "8",
         "name": "Sam Underwood",
-        "img": "../images/sam.jpg",
+        "img": "https://i.ibb.co/nmbB10w/sam.jpg",
         "years": "Here is spending his 7 years",
         "recipes": "He is better at making more than 6 iteams",
         "like": "4245"
